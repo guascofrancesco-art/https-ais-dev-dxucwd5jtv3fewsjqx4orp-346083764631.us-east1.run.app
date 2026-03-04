@@ -1,0 +1,5 @@
+{
+  "name": "GlicoCalc",
+  "description": "Calculadora inteligente de dose de insulina e contagem de carboidratos para gestão de diabetes.",
+  "requestFramePermissions": []
+}
